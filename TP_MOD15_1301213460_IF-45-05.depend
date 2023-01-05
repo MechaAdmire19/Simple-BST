@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672501641 source:d:\struktur data\tp_mod15_1301213460_if-45-05\main.cpp
+	"Tree.h"
+
+1672471575 d:\struktur data\tp_mod15_1301213460_if-45-05\tree.h
+	<iostream>
+
+1672502203 source:d:\struktur data\tp_mod15_1301213460_if-45-05\tree.cpp
+	"Tree.h"
+
